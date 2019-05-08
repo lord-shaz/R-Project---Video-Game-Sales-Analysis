@@ -14,7 +14,7 @@ The dataset for video game sales variety of platform with their manufacturer wit
 ![alt text](https://github.com/ShehzadaAlam/R-Project---Video-Game-Sales-Analysis/blob/master/R2.PNG "Dashboard - Publisher Analysis ")
 ----
 ### Year Wise Sale Analysis:
-![alt text](https://github.com/ShehzadaAlam/R-Project---Video-Game-Sales-Analysis/blob/master/R1.PNG "Dashboard - Year Wise Analysis ")
+![alt text](https://github.com/ShehzadaAlam/R-Project---Video-Game-Sales-Analysis/blob/master/R3.PNG "Dashboard - Year Wise Analysis ")
 ----
 <p>Thank You!	
 <p><!-- Place this tag where you want the button to render. -->
