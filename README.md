@@ -1,4 +1,4 @@
-# R-Project---Video-Game-Sales-Analysis
+# R-Shiny---Video-Game-Sales-Analysis
 ----
 The dataset for video game sales variety of platform with their manufacturer with sales on North America, Europe, Japan and other region.
 
